@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LightControl</string>
+    <string name="enter_username">username</string>
+    <string name="enter_password">password</string>
+    <string name="button_send">Login</string>
+    <string name="remember_check">Remember Me</string>
+</resources>
