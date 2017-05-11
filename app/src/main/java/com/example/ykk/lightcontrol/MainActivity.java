@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements ResponseListener 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.load_screen);
+        //setContentView(R.layout.load_screen);
 
         //try to get token from shared preferences
         hookClient = HookRestClient.getInstance();
